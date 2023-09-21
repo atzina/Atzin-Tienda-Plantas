@@ -8,3 +8,5 @@ Stack trace:
 #5 C:\xamppp\htdocs\tienda-plantas\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
 #6 C:\xamppp\htdocs\tienda- en C:\xamppp\htdocs\tienda-plantas\wp-content\plugins\woolentor-addons\woolentor-blocks\includes\classes\Api\Api.php en la línea 284
 
+2023-09-21T22:59:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xamppp\htdocs\tienda-plantas\wp-content\plugins\elementor\modules\shapes\module.php en la línea 5
+
