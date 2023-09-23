@@ -4,8 +4,8 @@
 
 ## Índice
 * [1. Descripción](#1-descripción)
-* [2. Sobre Desarrollo del Producto](#2-sobredesarrollodelproducto)
-* [3. Estado de Desarrollo del Producto](#3-estadodedesarrollodelproducto)
+* [2. Sobre desarrollo del producto](#2-sobre-desarrollo-del-producto)
+* [3. Estado de desarrollo del producto](#3-estado-de-desarrollo-del-producto)
 
 ## 1. Descripción
 
@@ -17,7 +17,7 @@ La tienda en línea ha sido diseñada para ser completamente responsiva, lo que 
 ![Apariencia de la página tienda filtrada solo plantas con flores tamaño celular](images/cel-tienda-flores.PNG)
 ![Apariencia de la página de mi cuenta tamaño celular](images/cuenta-cel.PNG)
 
-## 2. Sobre Desarrollo del Producto
+## 2. Sobre desarrollo del producto
 
 Para desarroolar mi proyecto en WordPress usando Elementor y WooCommerce, preparé un entorno de desarrollo local utilizando XAMPP como mi servidor localhost. Aquí algunos detalles:  
 
@@ -35,7 +35,7 @@ A lo largo del desarrollo, usé git y github como sistema de control de versione
 
 ![Apariencia de la página de tienda](images/Tienda.PNG)
 
-## 3. Estado de Desarrollo del Producto
+## 3. Estado de desarrollo del producto
 
 El desarrollo de la tienda en línea incluye las funcionalidades básicas necesarias para una experiencia de compra sencilla que representó un importante ejercicio de aprendizaje. Sin embargo, es importante señalar que en un caso real para llevar el proyecto al siguiente nivel y lograr su pleno funcionamiento, se requeriría la implementación de los siguientes elementos:
 
